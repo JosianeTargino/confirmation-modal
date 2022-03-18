@@ -1,1 +1,2 @@
-# confirmation-modal
+# https://josianetargino.github.io/confirmation-modal/
+confirmation-modal
